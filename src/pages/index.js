@@ -23,11 +23,11 @@ function HomepageHeader() {
           <Link className="button button--secondary button--lg" style={buttonstyle} to="/docs/index">
             浏览开发文档📑
           </Link>
-          <Link className="button button--secondary button--lg"style={buttoncolor} to="https://github.com/offline-colle/">
+          <Link className="button button--secondary button--lg"style={buttoncolor} to="https://github.com/sakura-society/houbunsha-fantasia">
             查看GitHub项目🖥️
           </Link>
-          <Link className="button button--secondary button--lg" style={buttonstyle} to="https://discord.gg/YKqytuN7PQ">
-            加入discord频道💬
+          <Link className="button button--secondary button--lg" style={buttonstyle} to="https://jq.qq.com/?_wv=1027&k=M4lxrZf7">
+            加入QQ群💬
           </Link>
         </div>
       </div>
